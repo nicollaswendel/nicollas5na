@@ -1,2 +1,0 @@
-# Nícollas Viana - RA: 73698
-Trabalho solicitado pelo professor Afonso, disciplina "Disruptive Architectures - IOT, Big Data e IA", quinto semestre de Análise e Desenvolvimento de Sistemas. Conversão de um arquivo CSV para Parquet.
